@@ -54,5 +54,27 @@ Sistem aşağıdaki 5 temel uç noktayı sunmaktadır:
 ## 🛠️ Middleware (Ara Katman)
 Projeye dahil edilen **Logger Middleware** sayesinde, API'ye gelen her istek (Method, Endpoint ve Zaman Damgası) eşzamanlı olarak sunucu konsoluna yazdırılarak süreçlerin izlenebilirliği sağlanmıştır.
 
+## 📸 Test Sonuçları ve Ekran Görüntüleri
+
+Projenin tüm CRUD operasyonları ve Logger ara katmanı Postman üzerinden başarıyla test edilmiştir. Aşağıda işlemlerin çalıştığına dair kanıt niteliğindeki ekran görüntüleri yer almaktadır:
+
+### 1. Görev Ekleme (POST) İşlemi
+![Görev Ekleme Testi](screenshots/1.jpg)
+
+### 2. Tüm Görevleri Listeleme (GET) İşlemi
+![Görev Listeleme Testi](screenshots/2.jpg)
+
+### 3. Görev Detayı Görme (GET) İşlemi
+![Görev Detayı Testi](screenshots/3.jpg)
+
+### 4. Görev Güncelleme (PUT) İşlemi
+![Görev Güncelleme Testi](screenshots/4.jpg)
+
+### 5. Görev Silme (DELETE) İşlemi
+![Görev Silme Testi](screenshots/5.jpg)
+
+### 6. Terminal ve Logger Kayıtları
+![Logger Çıktısı](screenshots/6.jpg)
+
 ---
 *Geliştirici: Berke Mert Öztürk*
