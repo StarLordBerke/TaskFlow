@@ -59,29 +59,29 @@ Projeye dahil edilen **Logger Middleware** sayesinde, API'ye gelen her istek (Me
 Projenin tüm CRUD operasyonları ve Logger ara katmanı Postman üzerinden başarıyla test edilmiştir. Aşağıda işlemlerin çalıştığına dair kanıt niteliğindeki ekran görüntüleri yer almaktadır:
 
 ### 0. Sunucu Çalışıyor
-![Sunuc Testi](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/1.SuncuCalisiyor.jpg)
+![Sunuc Testi](https://github.com/StarLordBerke/TaskFlow/blob/main/img/1.SuncuCalisiyor.jpg)
 
 ### 1. Görev Ekleme (POST) İşlemi
-![Görev Ekleme Testi](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/2.Post.jpg)
+![Görev Ekleme Testi](https://github.com/StarLordBerke/TaskFlow/blob/main/img/2.Post.jpg)
 
 ### 2. Tüm Görevleri Listeleme (GET) İşlemi
-![Görev Listeleme Testi](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/3.Get.jpg)
+![Görev Listeleme Testi](https://github.com/StarLordBerke/TaskFlow/blob/main/img/3.Get.jpg)
 
 ### 3. Görev Detayı Görme (GET) İşlemi
-![Görev Detayı Testi](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/4.Get1.jpg)
+![Görev Detayı Testi](https://github.com/StarLordBerke/TaskFlow/blob/main/img/4.Get1.jpg)
 
 ### 4. Görev Güncelleme (PUT) İşlemi
-![Görev Güncelleme Testi](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/5.Put.jpg)
+![Görev Güncelleme Testi](https://github.com/StarLordBerke/TaskFlow/blob/main/img/5.Put.jpg)
 
 ### 5. Görev Silme (DELETE) İşlemi
-![Görev Silme Testi](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/6.Delete.jpg)
+![Görev Silme Testi](https://github.com/StarLordBerke/TaskFlow/blob/main/img/6.Delete.jpg)
 
 ### 6. Terminal Kayıtları
-![Logger Çıktısı](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/7.TerminalKayitlari.jpg)
+![Logger Çıktısı](https://github.com/StarLordBerke/TaskFlow/blob/main/img/7.TerminalKayitlari.jpg)
 
 <br>
 
-![Logger Çıktısı](https://github.com/StarLordBerke4/TaskFlow/blob/main/img/8.TerminalKayitlari2.jpg)
+![Logger Çıktısı](https://github.com/StarLordBerke/TaskFlow/blob/main/img/8.TerminalKayitlari2.jpg)
 
 ---
 *Geliştirici: Berke Mert Öztürk*
